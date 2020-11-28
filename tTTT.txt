@@ -1,0 +1,71 @@
+Would you like to play Tic-Tac-Toe? Y or N 
+
+   a   b   c 
+1    |   |   
+   - + - + -
+2    |   |   
+   - + - + -
+3    |   |   
+Choose a square, eg b3 
+you input a, 3
+Grid Index = 6
+
+   a   b   c 
+1    |   |   
+   - + - + -
+2    |   |   
+   - + - + -
+3  X |   |   
+
+   a   b   c 
+1  O |   |   
+   - + - + -
+2    |   |   
+   - + - + -
+3  X |   |   
+Choose a square, eg b3 
+you input c, 1
+Grid Index = 2
+
+   a   b   c 
+1  O |   | X 
+   - + - + -
+2    |   |   
+   - + - + -
+3  X |   |   
+
+   a   b   c 
+1  O |   | X 
+   - + - + -
+2    | O |   
+   - + - + -
+3  X |   |   
+Choose a square, eg b3 
+you input c, 3
+Grid Index = 8
+
+   a   b   c 
+1  O |   | X 
+   - + - + -
+2    | O |   
+   - + - + -
+3  X |   | X 
+
+   a   b   c 
+1  O |   | X 
+   - + - + -
+2    | O |   
+   - + - + -
+3  X | O | X 
+Choose a square, eg b3 
+you input c, 2
+Grid Index = 5
+
+   a   b   c 
+1  O |   | X 
+   - + - + -
+2    | O | X 
+   - + - + -
+3  X | O | X 
+X Won!
+Would you like to play Tic-Tac-Toe? Y or N 
